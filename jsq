@@ -1,0 +1,26 @@
+public class Calculator {
+    // 构造函数
+    public Calculator() {
+        // 初始化计算器
+    }
+
+    // 加法运算
+    public double add(double a, double b) {
+        // 计算 a + b 的值并返回结果
+    }
+
+    // 减法运算
+    public double subtract(double a, double b) {
+        // 计算 a - b 的值并返回结果
+    }
+
+    // 乘法运算
+    public double multiply(double a, double b) {
+        // 计算 a * b 的值并返回结果
+    }
+
+    // 除法运算
+    public double divide(double a, double b) {
+        // 计算 a / b 的值并返回结果
+    }
+}
